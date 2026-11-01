@@ -18,7 +18,6 @@ O objetivo do LeadFup é oferecer uma estrutura simples para acompanhar o relaci
 - **Funil de vendas:** acompanhamento das oportunidades por etapas, com movimentação entre etapas.
 - **Atividades:** registro de e-mails, ligações e reuniões, com prazos, status e histórico de eventos.
 
-> O escopo acima descreve fluxos identificados na implementação. Ideias de evolução e itens de apresentação comercial não são tratados como funcionalidades concluídas.
 
 ## Tecnologias
 
