@@ -1,0 +1,9 @@
+flowchart TD
+    U[Usuário autenticado] --> UI[Interface web<br/>Blade e JavaScript]
+    UI --> R[Rotas da aplicação]
+    R --> C[Controllers]
+    C --> S[Services<br/>Regras de negócio]
+    S --> P[Repositories<br/>Acesso a dados]
+    P --> M[(MySQL / Eloquent)]
+    MW[Middleware e controles de acesso] -.-> R
+    V[Validações e componentes de suporte] -.-> S
