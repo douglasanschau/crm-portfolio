@@ -74,14 +74,6 @@ Este repositório público foi separado intencionalmente do código-fonte privad
 
 Veja também [screenshots/README.md](screenshots/README.md) para as orientações de inclusão de imagens.
 
-## Demonstração visual
-
-As capturas de tela ainda não foram adicionadas. Quando disponíveis, serão incluídas nesta seção com dados fictícios e sem informações pessoais ou comerciais reais.
-
-<!-- Adicione imagens revisadas em screenshots/ e atualize esta seção.
-Exemplo: ![Funil de vendas](screenshots/sales-pipeline.png)
--->
-
 ## Estado do projeto
 
 O LeadFup está em desenvolvimento. Este repositório funciona como material de portfólio e documentação pública; não é uma distribuição instalável da aplicação.
