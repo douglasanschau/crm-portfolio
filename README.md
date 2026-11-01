@@ -70,9 +70,7 @@ Este repositório público foi separado intencionalmente do código-fonte privad
 - Não contém arquivos .env, tokens, senhas ou credenciais.
 - Não contém dumps de banco de dados ou dados reais de usuários/clientes.
 - Não contém configurações operacionais ou detalhes sensíveis de infraestrutura.
-- As imagens de demonstração, quando adicionadas, devem usar dados fictícios e passar por revisão antes da publicação.
 
-Veja também [screenshots/README.md](screenshots/README.md) para as orientações de inclusão de imagens.
 
 ## Estado do projeto
 
